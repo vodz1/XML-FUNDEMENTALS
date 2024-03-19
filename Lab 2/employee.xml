@@ -11,6 +11,7 @@
 <phone Type="home">035-762-119</phone> 
 <phone Type="work">011-715-119-24</phone>
 </phones>
+<addresses>
 <address>
 <street>Mortada</street>
 <BuildingNumber>8</BuildingNumber>
@@ -18,6 +19,8 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+</addresses>
+
 <email>ahmeddadel988@gmail.com</email>
 </Employee>
 
@@ -27,6 +30,7 @@
 <phone Type="home">034-762-245</phone>
 <phone Type="work">011-923-169-66</phone>
 </phones>
+<addresses>
 <address>
 <street>Abo Qir</street>
 <BuildingNumber>4</BuildingNumber>
@@ -34,6 +38,9 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+
+</addresses>
+
 <email>bborkin1998@gmail.com</email>
 </Employee>
 
@@ -43,6 +50,8 @@
 <phone Type="home">034-899-111</phone>
 <phone Type="work">011-555-999-22</phone>
 </phones>
+
+    <addresses>
 <address>
 <street>Abo Qir</street>
 <BuildingNumber>5</BuildingNumber>
@@ -50,6 +59,8 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+    </addresses>
+
 <email>asdadsasfa@gmail.com</email>
 </Employee>
 

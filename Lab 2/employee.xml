@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Employees SYSTEM 'employee.dtd'>
+
+<?xml-stylesheet type="text/css" href="employee.css"?>
+
+<Employees>
+
+<Employee>
+<name>Ahmed Adel</name> 
+<phones>
+<phone Type="home">035-762-119</phone> 
+<phone Type="work">011-715-119-24</phone>
+</phones>
+<address>
+<street>Mortada</street>
+<BuildingNumber>8</BuildingNumber>
+<Region>Gnaklis</Region>
+<City>Alexandria</City>
+<Country>Egypt</Country>
+</address>
+<email>ahmeddadel988@gmail.com</email>
+</Employee>
+
+<Employee>
+<name>Ahmed Aly</name>
+<phones>
+<phone Type="home">034-762-245</phone>
+<phone Type="work">011-923-169-66</phone>
+</phones>
+<address>
+<street>Abo Qir</street>
+<BuildingNumber>4</BuildingNumber>
+<Region>zizenya</Region>
+<City>Alexandria</City>
+<Country>Egypt</Country>
+</address>
+<email>bborkin1998@gmail.com</email>
+</Employee>
+
+<Employee>
+<name>Mostafa Atef</name>
+<phones>
+<phone Type="home">034-899-111</phone>
+<phone Type="work">011-555-999-22</phone>
+</phones>
+<address>
+<street>Abo Qir</street>
+<BuildingNumber>5</BuildingNumber>
+<Region>Roushdy</Region>
+<City>Alexandria</City>
+<Country>Egypt</Country>
+</address>
+<email>asdadsasfa@gmail.com</email>
+</Employee>
+
+
+</Employees>

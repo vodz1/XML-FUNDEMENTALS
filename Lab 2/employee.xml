@@ -19,6 +19,14 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+
+<address>
+    <street>Abo Qir</street>
+    <BuildingNumber>1</BuildingNumber>
+    <Region>Loran</Region>
+    <City>Alexandria</City>
+    <Country>Egypt</Country>
+    </address>
 </addresses>
 
 <email>ahmeddadel988@gmail.com</email>
@@ -38,6 +46,13 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+<address>
+    <street>Abo Qir</street>
+    <BuildingNumber>9</BuildingNumber>
+    <Region>ibrahemeya</Region>
+    <City>Alexandria</City>
+    <Country>Egypt</Country>
+    </address>
 
 </addresses>
 
@@ -59,6 +74,13 @@
 <City>Alexandria</City>
 <Country>Egypt</Country>
 </address>
+<address>
+    <street>Abo Qir</street>
+    <BuildingNumber>9</BuildingNumber>
+    <Region>Sporting</Region>
+    <City>Alexandria</City>
+    <Country>Egypt</Country>
+    </address>
     </addresses>
 
 <email>asdadsasfa@gmail.com</email>

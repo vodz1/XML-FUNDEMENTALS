@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM 'employee.dtd'>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<employees>
+    <employee isbn="1">
+        <name>Ahmed Adel</name>
+        <phones>
+            <phone type="home">1234567890</phone>
+            <phone type="work">0987654321</phone>
+            <phone type="mobile">9876543210</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street> Mortada Street</Street>
+                <BuildingNumber>10</BuildingNumber>
+                <Region>Gnaklis</Region>
+                <City>Alexandria</City>
+                <Country> Egypt</Country>
+            </address>
+            <address>
+                <Street> abbas Street</Street>
+                <BuildingNumber>1</BuildingNumber>
+                <Region>Loran</Region>
+                <City>Alexandria</City>
+                <Country> Egypt</Country>
+            </address>
+        </addresses>
+        <email>Ahmed.Adel@example.com</email>
+    </employee>
+    <employee isbn="2">
+        <name>Jane Smith</name>
+        <phones>
+            <phone type="home">2345678901</phone>
+            <phone type="work">9876543210</phone>
+            <phone type="mobile">8765432109</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>456 Elm Street</Street>
+                <BuildingNumber>20</BuildingNumber>
+                <Region>Downtown</Region>
+                <City>Metropolis</City>
+                <Country>United States</Country>
+            </address>
+        </addresses>
+        <email>jane.smith@example.com</email>
+    </employee>
+    <employee isbn="3">
+        <name>mohamed essam</name>
+        <phones>
+            <phone type="home">3456789012</phone>
+            <phone type="work">8765432109</phone>
+            <phone type="mobile">7654321098</phone>
+        </phones>
+        <addresses>
+            <address>
+                <Street>789 Oak Street</Street>
+                <BuildingNumber>30</BuildingNumber>
+                <Region>Uptown</Region>
+                <City>Metropolis</City>
+                <Country>United States</Country>
+            </address>
+            <address>
+                <Street> roshdy Street</Street>
+                <BuildingNumber>30</BuildingNumber>
+                <Region>roshdy</Region>
+                <City>Alexandria</City>
+                <Country> Egypt</Country>
+            </address>
+        </addresses>
+        <email>mohamed.essam@example.com</email>
+    </employee>
+</employees>
